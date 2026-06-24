@@ -91,7 +91,7 @@ http://13.219.191.61
 
 ---
 
-## 🌐 Social App (In Progress)
+## 🌐 Social App
 
 Scalable social media backend application built with TypeScript, GraphQL, Socket.io, and AWS S3.
 
