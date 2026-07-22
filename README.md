@@ -55,6 +55,15 @@
 
 # 🌟 Featured Projects
 
+## 🎤 E-Commerce API
+
+Backend e-commerce system with secure authentication, product management, shopping cart, wishlist, and order processing
+
+🔗 GitHub:
+https://github.com/Ibrahimelshabrawy/Articulearn-Project](https://github.com/Ibrahimelshabrawy/ECommerce-App
+
+---
+
 ## 🎤 Articulearn API
 
 AI-driven pronunciation learning platform with speech analysis and automated feedback.
