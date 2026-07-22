@@ -55,7 +55,7 @@
 
 # 🌟 Featured Projects
 
-## 🎤 E-Commerce API
+## 🛒 E-Commerce API
 
 Backend e-commerce system with secure authentication, product management, shopping cart, wishlist, and order processing
 
