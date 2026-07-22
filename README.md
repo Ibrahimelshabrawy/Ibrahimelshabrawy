@@ -60,7 +60,7 @@
 Backend e-commerce system with secure authentication, product management, shopping cart, wishlist, and order processing
 
 🔗 GitHub:
-https://github.com/Ibrahimelshabrawy/Articulearn-Project](https://github.com/Ibrahimelshabrawy/ECommerce-App
+https://github.com/Ibrahimelshabrawy/ECommerce-App.git
 
 ---
 
