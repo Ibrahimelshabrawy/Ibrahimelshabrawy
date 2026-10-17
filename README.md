@@ -71,9 +71,6 @@ AI-driven pronunciation learning platform with speech analysis and automated fee
 🔗 GitHub:
 https://github.com/Ibrahimelshabrawy/Articulearn-Project
 
-🌍 Live Demo:
-http://54.163.152.172
-
 ---
 
 ## 💬 Saraha App Backend API
@@ -83,9 +80,6 @@ Anonymous messaging backend system with authentication and secure messaging feat
 🔗 GitHub:
 https://github.com/Ibrahimelshabrawy/Saraha-App
 
-🌍 Live Demo:
-http://54.86.101.39
-
 ---
 
 ## 📚 Bookify API
@@ -94,9 +88,6 @@ Backend API for managing books, favorites, notes, and reading progress.
 
 🔗 GitHub:
 https://github.com/Ibrahimelshabrawy/Bookify-App
-
-🌍 Live Demo:
-http://13.219.191.61
 
 ---
 
