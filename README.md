@@ -55,6 +55,17 @@
 
 # 🌟 Featured Projects
 
+## 🧾 Invoicing Management System
+
+Production-ready invoicing platform built with Node.js, Express.js, React.js, Sequelize, and MySQL, featuring client and service management, invoice generation, tax and discount calculations, PDF previews, email delivery, and Arabic/English support.
+
+Successfully deployed and integrated into Endorphins Art Labs’ production system.
+
+🔗 **GitHub:**
+https://github.com/Ibrahimelshabrawy/Invoice-Final-Project-Endorphins.git
+
+---
+
 ## 🛒 E-Commerce API
 
 Backend e-commerce system with secure authentication, product management, shopping cart, wishlist, and order processing
